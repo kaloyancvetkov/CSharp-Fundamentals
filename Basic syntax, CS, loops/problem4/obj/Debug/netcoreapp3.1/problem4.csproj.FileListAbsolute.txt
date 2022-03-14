@@ -1,0 +1,11 @@
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\bin\Debug\netcoreapp3.1\problem4.exe
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\bin\Debug\netcoreapp3.1\problem4.deps.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\bin\Debug\netcoreapp3.1\problem4.runtimeconfig.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\bin\Debug\netcoreapp3.1\problem4.runtimeconfig.dev.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\bin\Debug\netcoreapp3.1\problem4.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\bin\Debug\netcoreapp3.1\problem4.pdb
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\obj\Debug\netcoreapp3.1\problem4.csprojAssemblyReference.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\obj\Debug\netcoreapp3.1\problem4.AssemblyInfoInputs.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\obj\Debug\netcoreapp3.1\problem4.AssemblyInfo.cs
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\obj\Debug\netcoreapp3.1\problem4.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem4\obj\Debug\netcoreapp3.1\problem4.pdb

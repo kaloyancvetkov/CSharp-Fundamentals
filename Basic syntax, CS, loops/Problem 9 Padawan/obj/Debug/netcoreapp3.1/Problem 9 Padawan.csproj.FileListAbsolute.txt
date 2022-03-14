@@ -1,0 +1,10 @@
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\bin\Debug\netcoreapp3.1\Problem 9 Padawan.exe
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\bin\Debug\netcoreapp3.1\Problem 9 Padawan.deps.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\bin\Debug\netcoreapp3.1\Problem 9 Padawan.runtimeconfig.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\bin\Debug\netcoreapp3.1\Problem 9 Padawan.runtimeconfig.dev.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\bin\Debug\netcoreapp3.1\Problem 9 Padawan.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\bin\Debug\netcoreapp3.1\Problem 9 Padawan.pdb
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\obj\Debug\netcoreapp3.1\Problem 9 Padawan.AssemblyInfoInputs.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\obj\Debug\netcoreapp3.1\Problem 9 Padawan.AssemblyInfo.cs
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\obj\Debug\netcoreapp3.1\Problem 9 Padawan.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 9 Padawan\obj\Debug\netcoreapp3.1\Problem 9 Padawan.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "83RlFmruBR0ksQIy1cNOargRVAzhCobMwDv/RO5rIzE3F2Y/zO/7v64FnxwqEaA6rdmznB81sh7lFHpBwoBFGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaloyan Cvetkov\\source\\repos\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\problem4\\problem4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaloyan Cvetkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Kaloyan Cvetkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

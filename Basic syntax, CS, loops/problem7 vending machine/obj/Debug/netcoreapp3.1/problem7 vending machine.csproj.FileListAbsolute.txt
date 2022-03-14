@@ -1,0 +1,11 @@
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\bin\Debug\netcoreapp3.1\problem7 vending machine.exe
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\bin\Debug\netcoreapp3.1\problem7 vending machine.deps.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\bin\Debug\netcoreapp3.1\problem7 vending machine.runtimeconfig.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\bin\Debug\netcoreapp3.1\problem7 vending machine.runtimeconfig.dev.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\bin\Debug\netcoreapp3.1\problem7 vending machine.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\bin\Debug\netcoreapp3.1\problem7 vending machine.pdb
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\obj\Debug\netcoreapp3.1\problem7 vending machine.csprojAssemblyReference.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\obj\Debug\netcoreapp3.1\problem7 vending machine.AssemblyInfoInputs.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\obj\Debug\netcoreapp3.1\problem7 vending machine.AssemblyInfo.cs
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\obj\Debug\netcoreapp3.1\problem7 vending machine.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem7 vending machine\obj\Debug\netcoreapp3.1\problem7 vending machine.pdb

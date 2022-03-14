@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0K2bhAOmf5nX1JHHxn56OMKB7X8BHNUC73NT3ap6L94N3Gu1EqUucf+oQdKA7iaw3l9KWIYHdWqVdV+/yNYgPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaloyan Cvetkov\\source\\repos\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\problem 6 factoriel\\problem 6 factoriel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaloyan Cvetkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Kaloyan Cvetkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

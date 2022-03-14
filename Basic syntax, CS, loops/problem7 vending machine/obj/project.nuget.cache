@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1QpvW+hLXgksKN9rs5Bp7zJpo2JOOpMMZC2shQsKjOtzDD0swAJNjzJGsLQE8NnaT/IyfB9KKr8G2NR2gkGNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaloyan Cvetkov\\source\\repos\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\problem7 vending machine\\problem7 vending machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaloyan Cvetkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Kaloyan Cvetkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

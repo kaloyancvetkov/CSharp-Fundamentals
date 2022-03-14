@@ -1,0 +1,10 @@
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\bin\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.exe
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\bin\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.deps.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\bin\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.runtimeconfig.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\bin\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.runtimeconfig.dev.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\bin\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\bin\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.pdb
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\obj\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.AssemblyInfoInputs.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\obj\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.AssemblyInfo.cs
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\obj\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Problem 10 Pesho rage quits haha\obj\Debug\netcoreapp3.1\Problem 10 Pesho rage quits haha.pdb

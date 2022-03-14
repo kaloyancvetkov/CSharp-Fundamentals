@@ -1,0 +1,11 @@
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\bin\Debug\netcoreapp3.1\problem 6 factoriel.exe
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\bin\Debug\netcoreapp3.1\problem 6 factoriel.deps.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\bin\Debug\netcoreapp3.1\problem 6 factoriel.runtimeconfig.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\bin\Debug\netcoreapp3.1\problem 6 factoriel.runtimeconfig.dev.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\bin\Debug\netcoreapp3.1\problem 6 factoriel.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\bin\Debug\netcoreapp3.1\problem 6 factoriel.pdb
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\obj\Debug\netcoreapp3.1\problem 6 factoriel.csprojAssemblyReference.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\obj\Debug\netcoreapp3.1\problem 6 factoriel.AssemblyInfoInputs.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\obj\Debug\netcoreapp3.1\problem 6 factoriel.AssemblyInfo.cs
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\obj\Debug\netcoreapp3.1\problem 6 factoriel.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 6 factoriel\obj\Debug\netcoreapp3.1\problem 6 factoriel.pdb

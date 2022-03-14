@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6933bcef-e05c-4543-a152-d4deeda11775": {
+      "ProjectGuid": "6933bcef-e05c-4543-a152-d4deeda11775",
+      "DisplayName": "BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS",
+      "ColorIndex": 0
+    },
+    "9a4b62a3-127e-46eb-b544-35efa26943a2": {
+      "ProjectGuid": "9a4b62a3-127e-46eb-b544-35efa26943a2",
+      "DisplayName": "problem 6 factoriel",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

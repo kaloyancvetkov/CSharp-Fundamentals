@@ -1,0 +1,10 @@
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\bin\Debug\netcoreapp3.1\problem 8 triangle of numbers.exe
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\bin\Debug\netcoreapp3.1\problem 8 triangle of numbers.deps.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\bin\Debug\netcoreapp3.1\problem 8 triangle of numbers.runtimeconfig.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\bin\Debug\netcoreapp3.1\problem 8 triangle of numbers.runtimeconfig.dev.json
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\bin\Debug\netcoreapp3.1\problem 8 triangle of numbers.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\bin\Debug\netcoreapp3.1\problem 8 triangle of numbers.pdb
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\obj\Debug\netcoreapp3.1\problem 8 triangle of numbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\obj\Debug\netcoreapp3.1\problem 8 triangle of numbers.AssemblyInfo.cs
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\obj\Debug\netcoreapp3.1\problem 8 triangle of numbers.dll
+C:\Users\Kaloyan Cvetkov\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\problem 8 triangle of numbers\obj\Debug\netcoreapp3.1\problem 8 triangle of numbers.pdb

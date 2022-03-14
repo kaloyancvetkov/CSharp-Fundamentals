@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "problem 6 factoriel/1.0.0": {
+        "runtime": {
+          "problem 6 factoriel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problem 6 factoriel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
